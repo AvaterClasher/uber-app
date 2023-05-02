@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "uber-app",
-    "slug": "uber-app",
+    "slug": "moni-uber-clone",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "63d97489-d7f9-492c-897b-6cd3d1df9c5d"
+      }
+    },
+    "owner": "avaterclasher"
   }
 }
